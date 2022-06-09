@@ -1,0 +1,11 @@
+td {
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+    text-align: center;
+    font-size: 5rem;
+    color: aqua;
+}
+h1 {
+    color: rgb(255, 136, 0);
+}
