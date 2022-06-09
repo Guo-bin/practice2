@@ -145,4 +145,11 @@ button.addEventListener("click", () => {
 });
 
 let a = [1, 2, 3, 4, 5, "apple", false];
-console.log(a[0]);
+
+a.forEach((x) => {
+    console.log(x);
+});
+
+for (let i = 0; i < a.length; i++) {
+    console.log(a[i]);
+}
