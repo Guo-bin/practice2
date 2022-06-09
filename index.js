@@ -153,5 +153,8 @@ a.forEach((x) => {
 for (let i = 0; i < a.length; i++) {
     console.log(a[i]);
 }
+<<<<<<< HEAD
 
 function fn() {}
+=======
+>>>>>>> ebb045cb308f73e48f0958db716a8725ce4eb6ff
