@@ -154,6 +154,16 @@ for (let i = 0; i < a.length; i++) {
     console.log(a[i]);
 }
 
+//製造衝突
+=======
+<<<<<<< HEAD
+
 function fn() {}
+<<<<<<< HEAD
 
 //這邊也要製造衝突
+=======
+=======
+>>>>>>> ebb045cb308f73e48f0958db716a8725ce4eb6ff
+>>>>>>> dfabf5103e9ab5f44437f88b76aa79e61ad4664b
+>>>>>>> 8e3ac9ecd892ec6c80f431c6c60f6354a466c4f9
